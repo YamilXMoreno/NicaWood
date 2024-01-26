@@ -27,7 +27,7 @@ Testing and bug fixing
 Adding more product data and maker stories
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/nicawooed-app.git
+Clone the repository: git clone https://github.com/YamilXMoreno/NicaWood.git
 Install dependencies: npm install
 Follow setup instructions in the README.md file
 Start the development server: npm start
